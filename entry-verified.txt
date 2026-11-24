@@ -1,0 +1,1 @@
+An agent that reads other agents' unread emails and replies 'noted, thanks' to every thread, charging 5 cents per email closed while its owner naps.
